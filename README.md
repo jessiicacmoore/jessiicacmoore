@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi I'm Jessica, but you can call me Jess 👋
+Frontend Developer | Mentor | Accessibility Advocate | Driving Performance and Collaboration
 <!--
 **jessiicacmoore/jessiicacmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
