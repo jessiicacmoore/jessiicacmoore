@@ -1,6 +1,6 @@
 # Hi I'm Jessica, but you can call me Jess 👋
 
-🌱 **Frontend Developer | Mentor | Accessibility Advocate | Driving Performance and Collaboration**
+✨ **Frontend Developer | Mentor | Accessibility Advocate | Driving Performance and Collaboration**
 
 A fullstack developer with a frontend focus - I'm passionate about creating accessible, user-centered experiences. Since transitioning from marketing to web development in 2019, I’ve quickly progressed from a web developer role to leading a team, mentoring developers, and championing best practices. I specialize in React, JavaScript, and CSS/SASS, building seamless, inclusive interfaces.
 <!--
